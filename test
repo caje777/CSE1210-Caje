@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>HTML Example Page</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <h1>HTML Example Page</h1>
+    <p>This is where your content goes.</p>
+    <p>Styles are in the style.css file.</p>
