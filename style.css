@@ -6,16 +6,16 @@ body {
     color: #fff;
 }
 
-Header {
-    background-color: #764A62;
+heading {
+    background-color: #AE348F;
     color: #fff;
     text-align: center;
-    padding: 25px;
-    margin-bottom: 20px;
+    padding: 10px;
+    margin-bottom: 10px;
 }
 
 h2 {
-    background-color: #AE348F;
+    background-color: #6A335C;
     color: #fff;
     text-align: center;
     padding: 10px;
