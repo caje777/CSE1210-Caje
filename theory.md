@@ -43,7 +43,7 @@ Markup languages define the structure and format for content.
 Scripting languages focus on interactivity, manipulation, and functionality compared to just the strucuring in markup languages.
 
 14. **Explain the relationship between Standard Generalized Markup Language (SGML), Extensible Markup Language (XML), Hypertext Markup Language (HTML), Extensible Hypertext Markup Language (XHTML), Dynamic Hypertext Markup Language (DHTML), and markdown (MD).**
-    
+SGML is a standard for defining markup languages. XML is a flexible markup language used for data storage and exchange. HTML is a markup language for creating web pages. XHTML is a stricter version of HTML. DHTML adds dynamic content to HTML pages. Markdown is a lightweight markup language for formatting text.   
 
 15. **List some of your own interests, values, beliefs, resources, prior learning, and experiences.**
 Some of my interests include technology and computers. I have practically no prior experience or learning in coding before this class.
